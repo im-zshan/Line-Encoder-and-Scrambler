@@ -1,5 +1,6 @@
 # Line-Encoder-and-Scrambler
-Line Encoder and Scrambler with digital data generator and graph plotter.
+Line Encoder and Scrambler with digital data generator and graph plotter using Python.
+It includes Line Encoding schemes like: NRZ-I, NRZ-L, Manchester, Differential Manchester, AMI and scrambling techniques like HDB3 and B8ZS.
 
 ## Setup
 As I am using MacOS so, I will be doing this setup for Mac only
