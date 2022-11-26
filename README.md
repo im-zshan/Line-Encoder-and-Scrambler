@@ -11,18 +11,18 @@ As I am using MacOS so, I will be doing this setup for Mac only
 
 I will be doing it using HomeBrew,
 ```
-brew install python
+$ brew install python
 ```
 
 After installing Python and pip in MacOS (pip get automatically installed with python), we will use pip manager to install Python Turtle Package.
 - Run the below command in the terminal to install Turtle Library:
 ```
-pip install PythonTurtle
+$ pip install PythonTurtle
 ```
 
 - Verifying the installation of the Turtle Package
 ```
-pip show PythonTurtle
+$ pip show PythonTurtle
 ```
 
 - Below output will be displayed after the successful installation of the Python Turtle Library on your macOS
